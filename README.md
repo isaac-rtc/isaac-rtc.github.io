@@ -1,2 +1,1 @@
-# isaac-rtc.github.io
-Hello, my name is Isaac!
+# Hello, my name is Isaac!
